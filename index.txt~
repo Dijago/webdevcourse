@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+.blucara{color:blue;}
+.redcara{color:red;}
+.greencara{color:green;}
+.bold{font-weight:bold;}
+.underline{text-decoration:underline;}
+
+.destra{position:relative;
+left 200px;}
+.sfondo{background-color:red;
+width:350px;
+height:50px;}
+.cista{position:fixed;}
+
+
+
+</style>
+</head>
+<body>
+<div class="sfondo">
+<h1>Inserimento Iframe</h1>
+
+</div>
+
+
+
+<iframe width="600" height="315" src="https://www.youtube.com/embed/x7TvtWLnHUc" frameborder="0" allowfullscreen></iframe>
+
+<h2><span class="bold">Esercizio</span><span class="redcara bold"> prova</span></h2>
+
+<hr />
+
+<h3><span class="bold">Sport Preferiti</span></h3>
+<ol>
+   <li><span class="bold">Tennis</span></li>
+   <li><span class="bold blucara">Nuoto</li>
+   <li><span class="bold redcara">Calcio</li>
+</ol> 
+
+<h3><span class="bold">Cibi preferiti</span></h3>
+<ul>
+   <li><span class="bold redcara">Carne</span></li>
+   <li><span class="bold greencara">Patate</span></li>
+   <li><span class="bold blucara">Pesce</span></li>
+<hr />
+<h4>La mia famiglia</h4>
+<table>
+<tr><th>Nome</th><th>Età</td><th>Sesso</th></tr>
+<tr><td><em>Saverio</em></td><td>59</td><td>Maschio</td></tr>
+<tr><td><em>Graziella</em></em></td><td>57</td><td>Femmina</td></tr>
+<tr><td><em>Luana</em></td><td>32</td><td>Femmina</td></tr>
+<tr><td><em>Valentina</em></td><td>32</td><td>Femmina</td></tr>
+<tr><td><em>Giuseppe</em></td><td>18</td><td>Maschio</td></tr>
+</table>
+
+<hr />
+
+<h3>Passioni</h3>
+<p><i>Ho una grande passione per le auto ma in particolare per le moto.
+Non ho una moto preferita ma in una cerchia ristretta sicuramente partecipano la <strong>Yamaha R1</strong> e la <strong>MV Agusta F4</strong></i></p>
+
+<form action="http://www.yamaha-motor.eu/it/prodotti/motocicli/supersport/yzf-r1m.aspx#gallery=image|image=//cdn.yamaha-motor.eu/product_assets/2015/YZF1000R1SPL/950-75/2015-Yamaha-YZF1000R1SPL-EU-Silver-Blu-Carbon-Action-001.jpg"/>
+
+<p>Vuoi saperne di piu'? Clicca i paragrafi a te interessati</p>
+<input type="submit" value="Yamaha R1"/>
+
+<form action="http://www.mvagusta.com/it/moto/f4/">
+<input type="submit" value="MV Agusta F4"/>
+
+<p>Per quanto riguarda invece le auto non ho esitazioni:<br /> <strong>Lamborghini Sesto Elemento</strong></p>
+<h5>Se vuoi saperne di piu' clicca il link qui sotto!!</h5>
+
+<a href="https://it.wikipedia.org/wiki/Lamborghini_Sesto_Elemento#/media/File:Lamborghini_Sesto_Elemento_%2816107850781%29.jpg">Sesto Elemento</a>
+
+
+
+
+</body>
+</hmtl>
